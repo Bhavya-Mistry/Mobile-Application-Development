@@ -1,4 +1,4 @@
-package com.example.asynctaskexample;
+package com.example.asynctask;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
